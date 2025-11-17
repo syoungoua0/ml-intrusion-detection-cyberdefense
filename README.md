@@ -4,7 +4,7 @@
 [![scikit-learn](https://img.shields.io/badge/scikit--learn-1.0+-orange.svg)](https://scikit-learn.org/)
 [![License](https://img.shields.io/badge/License-MIT-green.svg)](LICENSE)
 
-> **Projet académique** - Master 2 Cyberdéfense, École Hexagone Versailles (2024-2025)
+> **Projet académique** - Master 2 Cyberdéfense, École Hexagone Versailles ( PARIS 2025)
 
 Système complet de détection d'intrusion réseau utilisant le Machine Learning avec **optimisation des métriques orientées cyberdéfense** (maximisation du Recall pour minimiser les intrusions manquées).
 
