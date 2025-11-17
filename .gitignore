@@ -1,0 +1,66 @@
+# Python
+__pycache__/
+*.py[cod]
+*$py.class
+*.so
+.Python
+build/
+develop-eggs/
+dist/
+downloads/
+eggs/
+.eggs/
+lib/
+lib64/
+parts/
+sdist/
+var/
+wheels/
+*.egg-info/
+.installed.cfg
+*.egg
+
+# Virtual Environment
+venv/
+ENV/
+env/
+.venv
+
+# Jupyter Notebook
+.ipynb_checkpoints
+
+# IDEs
+.vscode/
+.idea/
+*.swp
+*.swo
+*~
+
+# OS
+.DS_Store
+Thumbs.db
+
+# Project specific
+*.png
+*.jpg
+*.jpeg
+*.csv
+*.pkl
+*.joblib
+*.h5
+*.model
+
+# Keep example images in docs
+!docs/images/*.png
+!docs/images/*.jpg
+
+# Logs
+*.log
+
+# Data files (optional, uncomment if you don't want to track data)
+# data/
+# results/
+
+# Temporary files
+*.tmp
+*.bak
